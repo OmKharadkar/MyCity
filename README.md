@@ -1,1 +1,2 @@
 # MyCity
+This website is For Mycity Problem Statement where Chatrapti SambhajiNagar is the city which is famous for its forts, intricate Mughal architecture, and cultural legacy.  You can explore the city and its landmarks and also learn about its rich history and culture.
